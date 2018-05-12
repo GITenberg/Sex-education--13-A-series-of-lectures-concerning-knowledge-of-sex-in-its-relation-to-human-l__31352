@@ -1,0 +1,30 @@
+_repo: Sex-education--13-A-series-of-lectures-concerning-knowledge-of-sex-in-its-relation-to-human-l__31352
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bigelow, Maurice A. (Maurice Alpheus)
+    alias: Bigelow, Maurice Alpheus
+    birthdate: 1872
+    deathdate: 1955
+    gutenberg_agent_id: '35172'
+    url: http://www.gutenberg.org/2009/agents/35172
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Bigelow
+description: ''
+gutenberg_issued: '2010-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31352'
+  lccn: '16014606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Sex instruction'
+title: "Sex-education\r\nA series of lectures concerning knowledge of sex in its relation\
+  \ to human life"
+url: http://www.gutenberg.org/ebooks/31352
